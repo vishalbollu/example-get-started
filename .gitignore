@@ -1,3 +1,4 @@
 .env/
 /model.pkl
 /transformations.joblib
+/pipeline.pkl
