@@ -1,4 +1,3 @@
-['remote "storage"']
-url = https://remote.dvc.org/get-started
-[core]
-remote = storage
+
+['remote "my_repo"']
+url = s3://data-vishal/integration/dvc
