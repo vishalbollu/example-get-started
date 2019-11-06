@@ -94,3 +94,5 @@ test_words_tfidf_matrix = pipeline.transform(test_words)
 save_matrix(df_test, test_words_tfidf_matrix, test_output)
 
 dump(pipeline, transformations_output)
+dump(pipeline, "transformations.joblib")
+
