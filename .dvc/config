@@ -1,3 +1,5 @@
 
 ['remote "my_repo"']
 url = s3://data-vishal/integration/dvc
+[core]
+remote = my_repo
