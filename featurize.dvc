@@ -1,5 +1,6 @@
 md5: 0d9f8cce05df300887942d6358463070
 cmd: python src/featurization.py data/prepared data/features
+wdir: .
 deps:
 - md5: 38591f43e95c1e5ae8891a1e18c7f721
   path: src/featurization.py
